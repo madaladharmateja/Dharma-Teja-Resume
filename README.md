@@ -1,4 +1,4 @@
-
+![logo](https://github.com/madaladharmateja/dharmateja/blob/main/GitHub%20Banner.png)
 
 <h1>Madala Dharma Teja</h1>
 
