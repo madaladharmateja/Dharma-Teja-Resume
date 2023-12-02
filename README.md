@@ -1,6 +1,8 @@
-![logo](https://github.com/madaladharmateja/dharmateja/blob/main/GitHub%20Banner.png)
 
-<h1>Madala Dharma Teja</h1>
+![logo](https://github.com/madaladharmateja/dharmateja/blob/main/GitHub%20Banner.png)
+<h1 align="center">Hi 👋, I'm Madala Dharma Teja</h1>
+<h3 align="center">Data Analyst Aspirant</h3>
+
 
 <p>📧 <strong>Email:</strong> Dharmatejachowdary373@gmail.com</p>
 <p>📱 <strong>Phone:</strong> +91 9035843983</p>
@@ -55,7 +57,7 @@ and professional growth.</p>
     <li>	Performed efficient onboarding process through electronic signing and also engaged in streamlining the payroll system for improved salary management and oversaw precise 
             data management for large datasets.</li>
     <li>	Achieved seamless onboarding, regulatory compliance, and improved operational efficiency through optimized processes and enhanced data management.</li>
- 
+    
 <!-- Academic Projects Section -->
 <h2>ACADEMIC PROJECTS</h2>
 <h3>Organization: Quess Corp Ltd.</h3><br>Sep 2023 – Oct 2023</p><p><strong>Title: An Empirical Study on Business Analytics and its Impact on Human Resource Management System 
