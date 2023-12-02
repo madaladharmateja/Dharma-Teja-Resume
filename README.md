@@ -50,8 +50,10 @@ and professional growth.</p>
 
 <ul>
     <li>	Managed candidate registration and login initiation, and contributed to enhancing E-KYC processes for regulatory compliance.</li>
-    <li>	Optimized candidate document upload, developed employment contracts, and implemented electronic signing. Initiated a streamlined payroll system for efficient salary management.</li>
-    <li>	Performed efficient onboarding process through electronic signing and also engaged in streamlining the payroll system for improved salary management and oversaw precise data management for large datasets.</li>
+    <li>	Optimized candidate document upload, developed employment contracts, and implemented electronic signing. Initiated a streamlined payroll system for efficient salary 
+             management.</li>
+    <li>	Performed efficient onboarding process through electronic signing and also engaged in streamlining the payroll system for improved salary management and oversaw precise 
+            data management for large datasets.</li>
     <li>	Achieved seamless onboarding, regulatory compliance, and improved operational efficiency through optimized processes and enhanced data management.</li>
  
 <!-- Academic Projects Section -->
@@ -61,10 +63,13 @@ and professional growth.</p>
 </strong>
 
 <ul>
-    <li>During my internship at Quess Corp Ltd. from September to October 2023, I conducted an empirical study on the implementation of business analytics in the Human Resource Management System (HRMS). </li>
+    <li>During my internship at Quess Corp Ltd. from September to October 2023, I conducted an empirical study on the implementation of business analytics in the Human Resource 
+     Management System (HRMS). </li>
     <li>My task was to assess the impact of business analytics on HR efficiency and effectiveness. </li>
-    <li>I employed a mixed-methods approach, conducting qualitative interviews and quantitative surveys of Oracle HCM Cloud users. Collaborating closely with IT and HR teams, I analyzed the data and presented findings to senior management. </li>
-    <li>The study revealed positive correlations, influencing evidence-based decision-making. Recommendations included improving self-service options and addressing specific performance evaluation concerns, demonstrating a tangible impact on HR practices at Quess Corp Ltd.</li>
+    <li>I employed a mixed-methods approach, conducting qualitative interviews and quantitative surveys of Oracle HCM Cloud users. Collaborating closely with IT and HR teams, I 
+     analyzed the data and presented findings to senior management. </li>
+    <li>The study revealed positive correlations, influencing evidence-based decision-making. Recommendations included improving self-service options and addressing specific 
+     performance evaluation concerns, demonstrating a tangible impact on HR practices at Quess Corp Ltd.</li>
     
 
 <h3>Statistical Analysis using SPSS</h3>
@@ -80,8 +85,8 @@ and professional growth.</p>
 <ul>
     <li>	During my time as a trainee at NICT Institute, I engaged in a dynamic and hands-on training program focused on Tableau Software. </li>
     <li>	The program aimed to impart comprehensive knowledge and practical skills in data visualization and analysis.</li>
-   <li>	I actively participated in all aspects of the program, from curriculum design to delivery, developing the ability to effectively harness Tableau's capabilities.</li>
-   <li>	By the end of the program lifecycle, I successfully acquired proficiency in utilizing Tableau for data visualization and analysis, enhancing my practical skills in this domain.
+   <li>	    I actively participated in all aspects of the program, from curriculum design to delivery, developing the ability to effectively harness Tableau's capabilities.</li>
+   <li>	    By the end of the program lifecycle, I successfully acquired proficiency in utilizing Tableau for data visualization and analysis, enhancing my practical skills in this domain.
 
 </li>
 </ul>
