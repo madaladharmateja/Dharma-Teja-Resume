@@ -4,8 +4,8 @@
 
 <p>📧 <strong>Email:</strong> Dharmatejachowdary373@gmail.com</p>
 <p>📱 <strong>Phone:</strong> +91 9035843983</p>
-<p>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/madaladharmatja">Madala Dharma Teja</a></p>
-<p>📂 <strong>GitHub:</strong> <a href="https://github.com/madaladharmateja">madaladharmateja</a></p>
+<p>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/madaladharmatja">"https://www.linkedin.com/in/madaladharmatja"</a></p>
+<p>📂 <strong>GitHub:</strong> <a href="https://github.com/madaladharmateja">"https://github.com/madaladharmateja"</a></p>
 
 <h2>Summary</h2>
 
