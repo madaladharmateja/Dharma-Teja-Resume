@@ -37,7 +37,7 @@ and professional growth.</p>
 <ul>
     <li><strong>Analytical Tools:</strong> Tableau, Power BI, Excel</li>
     <li><strong>Programming Languages:</strong> R - Basic Level</li>
-    <li><strong>Software’s:</strong> SPSS</li>
+    <li><strong>Software’s:</strong> SPSS ( Academic )</li>
     <li><strong>Database:</strong> MySQL – Basic Level</li>
     <li><strong>Soft Skills:</strong> Analytical Skills, Problem Solving, Curiosity, Continuous Learning, Time Management, Communication</li>
 </ul>
